@@ -66,3 +66,38 @@ div.marker .markerIcon.dash:before{
   		font-family: 'FontAwesome';
   		content: "\f068";
   	}
+		
+	div.marker .markerIcon.city:before{
+  		font-family: 'icomoon';
+  		content: "\e604";
+  	}	
+	div.marker .markerIcon.government:before{
+  		font-family: 'icomoon';
+  		content: "\e605";
+  	}	
+	div.marker .markerIcon.university:before{
+  		font-family: 'icomoon';
+  		content: "\e606";
+  	}
+	div.marker .markerIcon.police:before{
+  		font-family: 'icomoon';
+  		content: "\e607";
+  	}	
+	div.marker .markerIcon.medical:before{
+  		font-family: 'icomoon';
+  		content: "\e608";
+  	}
+	div.marker .markerIcon.school:before{
+  		font-family: 'icomoon';
+  		content: "\e609";
+  	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
