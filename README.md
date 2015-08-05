@@ -2,7 +2,7 @@
 Vector Font Markers for Web Mapping
 
 Adding to this Icon Font:
-  1. Create a login for icomoon.com
+  1. Create a login for icomoon.io
   2. Open the icomoon app by clicking the red button at the top of the screen
   3. Import the NBTFontMarkers icon set by clicking the purple "import icons" button at the top of the screen and choosing the FontMarkersIcoMoonSet.json file
   4. Add additional icons to this font set by clicking menu icon (ie. the 3 horizontal bars... as if you didn't know) next to the font set name and select "import to this set"
