@@ -90,8 +90,11 @@ div.marker .markerIcon.dash:before{
 	div.marker .markerIcon.school:before{
   		font-family: 'icomoon';
   		content: "\e609";
+  	}	
+	div.marker .markerIcon.books:before {
+  		font-family: 'icomoon';
+  		content: "\e60a";
   	}
-	
 	
 	
 	
