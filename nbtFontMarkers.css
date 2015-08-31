@@ -93,6 +93,10 @@ div.marker .markerIcon.dash:before{
   	}	
 	div.marker .markerIcon.books:before {
   		font-family: 'icomoon';
+  		content: "\e60b";
+  	}
+	div.marker .markerIcon.tower:before {
+  		font-family: 'icomoon';
   		content: "\e60a";
   	}
 	
